@@ -1,7 +1,7 @@
 ## Hello there 👋
 
-- 🔭 I’m currently working at Alicanto Labs, a university spin-off that develops the engine of [Deswik.GO](https://www.deswik.com/product-detail/deswik-go/)
-- 📍 Santiago de Chile ➡️ München, Deutschland.
+- 🔭 I’m currently working at The Mobility House.
+- 📍 München, Deutschland.
 - Languages: Spanish, English and German.
 - 📫 How to reach me: `pablo at pyanezs dot com`
 
